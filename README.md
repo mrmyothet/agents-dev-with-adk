@@ -11,8 +11,6 @@ A foundational notebook covering custom tools and conversational memory:
 - **Create Multi-Agent Teams**: Assemble systems where a primary agent delegates specialized tasks to other agents
 - **Master Conversational Memory**: Use Sessions to enable agents to remember interactions, handle feedback, and maintain coherent conversations
 
-**Original Author**: Qingyue (Annie) Wang - Developer Advocate (Google)
-
 ### 2. **ADK_Learning_tool_multi_agents.ipynb** 🤖
 
 An advanced notebook diving into multi-agent orchestration and complex workflows:
@@ -21,6 +19,8 @@ An advanced notebook diving into multi-agent orchestration and complex workflows
 - **LoopAgent**: Build iterative systems where agents plan, critique, and refine their work until goals are met
 - **ParallelAgent**: Run multiple agents simultaneously and synthesize their findings into comprehensive answers
 - **The Router**: Construct a master router agent that intelligently analyzes requests and delegates them to the correct agent or workflow
+
+**Original Author**: Qingyue (Annie) Wang - Developer Advocate (Google)
 
 **Prerequisites**:
 
